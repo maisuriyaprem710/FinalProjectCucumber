@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="33.574">
+    <testcase classname="Free CRM companies feature" name="Free CRM create companies test scenario" time="33.356">
+        <system-out><![CDATA[Given user is on login page.................................................passed
+When title of page is Cogmento CRM..........................................passed
+Then user enters username and password......................................passed
+Then user clicks on Login button............................................passed
+Then user is on home page...................................................passed
+Then user opens Companies Page..............................................passed
+Then user creates Deals.....................................................passed
+Then close browser..........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
